@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy/Sad Mode Toggle</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1 style="text-align:center;">
+  Welcome To Proect 9
+    <div class="container">
+    <h2 class="mode-status">Currently Dont Care </h2>
+    <label class="toggle-switch">
+      <input type="checkbox" id="mode-toggle">
+      <span class="slider"></span>
+    </label>
+  </div>
+  <a href="default.asp">
+    <img src="https://media2.giphy.com/media/Ju7l5y9osyymQ/giphy.gif?cid=ecf05e47lba690a3duot5kib82ab04wplvsfxbf41eokbhrn&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Rick Rolled" style="width:250px;height:250px;">
+    </a>
+    <P> It's 2005 & you just got "Rick Rolled"</P>
+  </h1>
+
+  <script src="index.js"></script>
+</body>
+</html>
